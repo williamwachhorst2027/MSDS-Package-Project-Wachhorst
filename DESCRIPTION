@@ -1,0 +1,15 @@
+Package: footballAnalytics
+Title: Football Receiving Analytics
+Version: 0.0.0.9000
+Authors@R:
+    person("William", "Wachhorst",
+           email = "williamwachhorst2027@u.northwestern.edu",
+           role = c("aut", "cre"))
+Description: Provides simple functions for analyzing football
+    receiving performance. Includes calculations for yards per
+    reception and catch rate to support player evaluation and
+    sports analytics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1

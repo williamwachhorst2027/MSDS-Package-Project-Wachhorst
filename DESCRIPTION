@@ -13,3 +13,12 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.1
+Imports:
+    grDevices,
+    graphics,
+    stats,
+    utils,
+    base64enc
+Depends: 
+    R (>= 3.5)
+LazyData: true
